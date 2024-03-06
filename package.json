@@ -1,0 +1,24 @@
+{
+  "name": "cxosync_api",
+  "version": "1.0.0",
+  "description": "Created for the cxosync sites forms submission api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "expressjs",
+    "nodejs",
+    "server",
+    "node",
+    "server",
+    "backend",
+    "fullstackapi"
+  ],
+  "author": "Parth Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
